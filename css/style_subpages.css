@@ -1,0 +1,38 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+html body{
+background-color : #99CEE4;
+}
+body {
+  padding-top: 2rem;
+}
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 0.05px;
+  width: auto;
+}
+
+.navbar-default {
+  background-color:teal;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+
+.navbar-custom {
+    color: #FFFFFF;
+    background-color: #0950A0;
+}
+
+.navbar-nav > li > .dropdown-menu { background-color:  #0950A0; }
+
+ .navbar-nav > li > .dropdown-menu a{   color: #FFFFFF;  }
+
+.navbar-nav > li > .dropdown-menu a:hover{background-color: #0000CD;}
+
+.jumbotron
+{
+background-color:#99CEE4;
+}
