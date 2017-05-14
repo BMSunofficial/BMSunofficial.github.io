@@ -33,3 +33,14 @@ body {
 
 .navbar-nav > li > .dropdown-menu a:hover{background-color: #0000CD;}
 
+.btn-primary, .btn-primary:active, .btn-secondary, .btn-secondary:active{
+	background-color: #0950A0  !important;
+	border-color : #0950A0 !important;
+	color: white !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-secondary:hover, .btn-secondary:focus{
+    background-color: #99CEE4 !important;
+		border-color: #0950A0 !important;
+		color: black !important;
+}*/
